@@ -62,10 +62,7 @@ A responsive personal portfolio built with HTML, CSS, and JavaScript, including 
 
 ## GitHub activity
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anvesh0928&show_icons=true&theme=github_dark&hide_border=true" alt="Anvesh's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvesh0928&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</div>
+You can explore my repositories, projects, and coding activity directly on my [GitHub profile](https://github.com/Anvesh0928).
 
 ## Let's connect
 
