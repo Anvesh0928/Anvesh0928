@@ -62,7 +62,12 @@ A responsive personal portfolio built with HTML, CSS, and JavaScript, including 
 
 ## GitHub activity
 
-You can explore my repositories, projects, and coding activity directly on my [GitHub profile](https://github.com/Anvesh0928).
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anvesh0928&theme=github_dark" alt="GitHub contribution summary" width="100%" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anvesh0928&theme=github_dark" alt="GitHub statistics" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anvesh0928&theme=github_dark" alt="Repositories by language" width="49%" />
+</div>
 
 ## Let's connect
 
