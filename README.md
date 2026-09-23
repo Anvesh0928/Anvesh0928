@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Anvesh Tiwari 👋</h1>
-  <p>Full-stack developer building practical web apps, real-time systems, and thoughtful user experiences.</p>
+  <p>Web developer focused on building responsive websites, practical applications, and complete deployments.</p>
   <p>
     <a href="https://github.com/Anvesh0928">
       <img src="https://komarev.com/ghpvc/?username=Anvesh0928&style=flat&color=blue" alt="Profile views" />
@@ -13,24 +13,38 @@
 
 ## About me
 
-I'm a full-stack developer who enjoys turning ideas into useful, reliable web applications. I mainly work with **JavaScript, TypeScript, React, Node.js, MongoDB, and Socket.io**.
+I'm a web developer who enjoys creating clean, responsive, and user-friendly websites. I work mainly with **HTML, CSS, JavaScript, React, and Tailwind CSS**, and I also have experience with Python, basic Java, SQL queries, and deployment workflows.
 
-At the moment, I'm exploring real-time communication, AI-powered workflows, and backend systems that are easier to scale and maintain.
+I like working across the process—from building the frontend and managing code with Git to deploying projects and exploring digital marketing through Google Ads.
 
 ## What I'm working on
 
-- Building full-stack applications with the MERN stack.
-- Exploring real-time features with **Socket.io** and **Redis**.
-- Learning more about **AI integrations**, voice workflows, and intent-based systems.
-- Improving frontend experiences through responsive layouts, animation, and interaction design.
+- Building responsive websites and frontend applications.
+- Improving my React, JavaScript, and Tailwind CSS skills.
+- Practicing Python, basic Java, and SQL queries.
+- Learning and handling complete website deployment workflows.
+- Exploring Google Ads and practical digital marketing concepts.
 
 ## Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,vite,tailwind,nodejs,express,mongodb,redis,docker,git" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,tailwind,docker,git,github,gitlab" alt="Tech stack" />
 </div>
 
-**Also working with:** Zod · Pino · Mongoose · GSAP · Framer Motion · Lenis · Socket.io
+### Languages & frontend
+
+HTML · CSS · JavaScript · React · Tailwind CSS · Python · Basic Java
+
+### Database & tools
+
+SQL Queries · Docker · Git · GitHub · GitLab
+
+### Additional skills
+
+- Complete website deployment and setup workflows
+- Google Ads
+- Responsive UI development
+- Version control and project management
 
 ## Selected projects
 
@@ -38,10 +52,10 @@ At the moment, I'm exploring real-time communication, AI-powered workflows, and 
 A full-stack real-time support system with call queues, agent availability, AI voice intent workflows, Socket.io, Redis, MongoDB, and Docker.
 
 ### [Rakhi](https://github.com/Anvesh0928/Rakhi)
-An interactive recommendation experience built with React 19, Vite, Tailwind CSS, GSAP, Framer Motion, and Lenis.
+An interactive recommendation experience built with React, Vite, Tailwind CSS, GSAP, Framer Motion, and Lenis.
 
 ### [Expense Tracker](https://github.com/Anvesh0928/Expense-Tracker)
-An expense and task management application with MongoDB-based user data isolation, analytics, and email verification flows.
+An expense and task management application with analytics, user data handling, and email verification flows.
 
 ### [Personal Portfolio](https://github.com/Anvesh0928/portfolio)
 A responsive personal portfolio built with HTML, CSS, and JavaScript, including light and dark theme support.
@@ -60,5 +74,5 @@ A responsive personal portfolio built with HTML, CSS, and JavaScript, including 
 - **GitHub:** [@Anvesh0928](https://github.com/Anvesh0928)
 
 <div align="center">
-  <sub>Thanks for stopping by — always open to learning, building, and collaborating.</sub>
+  <sub>Thanks for stopping by — always learning, building, and improving.</sub>
 </div>
